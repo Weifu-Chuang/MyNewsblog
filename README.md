@@ -1,0 +1,2 @@
+# MyNewsblog
+Weekly news assemble
